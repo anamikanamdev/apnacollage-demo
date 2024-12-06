@@ -1,3 +1,3 @@
 # apnacollage-demo
 this is my frist file
-anamika namdev
+Auther-anamika namdev
